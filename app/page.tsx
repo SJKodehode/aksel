@@ -28,7 +28,7 @@ const Step1 = () => {
   return (
   <div className="">
     <RadioGroup
-            legend="Velg din aldersgruppe. Dette er selvfølgelig helt urelevant for senere. "
+            legend="Velg din aldersgruppe. Dette er selvfølgelig helt irrelevant for senere. "
             onChange={handleChange}
           >
             <Radio value="10">10-20 år</Radio>
